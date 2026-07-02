@@ -13,13 +13,6 @@
 
 Este repositorio contiene el código, datos procesados y documentos asociados a la tesis *Justicia de Mercado en Salud: Un estudio de 30 años en Chile*, desarrollada en el marco del proyecto **FONDECYT Regular Nº 1250518: Justicia de Mercado y Merecimiento del Bienestar Social**, dirigido por el **Dr. Juan Carlos Castillo**.
 
-
-<p align="left">
-  <a href="https://cristobal-mejias-g.github.io/tesis-jmsalud/expose.html">
-    <strong> Ver exposé </strong>
-  </a>
-</p>
-
 <p align="left">
   <a href="https://cristobal-mejias-g.github.io/tesis-jmsalud/st1_avance.html">
     <strong> Ver Avance Seminario de Título 1 </strong>
